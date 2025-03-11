@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENoticing", "ENoticing\ENoticing.csproj", "{D436C57A-9097-4CB3-A3D1-13B25DBC846C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENoticingNightlyJob", "ENoticingNightlyJob\ENoticingNightlyJob.csproj", "{8F3EB731-1EB9-4AB2-81B5-727552B043E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D436C57A-9097-4CB3-A3D1-13B25DBC846C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D436C57A-9097-4CB3-A3D1-13B25DBC846C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D436C57A-9097-4CB3-A3D1-13B25DBC846C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D436C57A-9097-4CB3-A3D1-13B25DBC846C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3EB731-1EB9-4AB2-81B5-727552B043E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3EB731-1EB9-4AB2-81B5-727552B043E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3EB731-1EB9-4AB2-81B5-727552B043E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3EB731-1EB9-4AB2-81B5-727552B043E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92311A36-5EEB-4919-9F9C-9B28FCD6D59B}
+	EndGlobalSection
+EndGlobal
